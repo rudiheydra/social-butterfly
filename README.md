@@ -1,6 +1,6 @@
 # The MongoDB Atlas Data API in the Jamstack: The Serverless Dream!
 
-Live Demo: [https://socialbutterfly.vercel.app/](https://socialbutterfly.vercel.app/)
+Live Demo: [https://socialbutterfly.vercel.app/](https://social-butterfly-gamma.vercel.app/)
 
 ## Introduction
 
@@ -11,14 +11,14 @@ This workshop will show you how you can connect to MongoDB Atlas in your Jamstac
 ## What we'll cover in this workshop
 
 - ~15 minutes of slides explaining Jamstack, serverless, and how the MongoDB Atlas Data API fits into these.
-- Hands-on lesson resulting in you building a fully functional, deployed application. 
+- Hands-on lesson resulting in you building a fully functional, deployed application.
 
 ## Prerequisites
 
 In order to successfully complete the tasks in this workshop, you should have:
 
 - Familiarity with JavaScript
-- Accounts (All Free): 
+- Accounts (All Free):
   - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register2)
   - [GitHub](https://github.com/signup)
   - [Vercel](https://vercel.com/signup)
@@ -27,7 +27,7 @@ In order to successfully complete the tasks in this workshop, you should have:
 - Node.js installed on your computer (14.x / 16.x)
 - Code Editor (VS Code recommended)
 
-That's it 🙌 *(no prior knowledge of MongoDB is required)*
+That's it 🙌 _(no prior knowledge of MongoDB is required)_
 
 ## Slides
 
@@ -38,6 +38,7 @@ That's it 🙌 *(no prior knowledge of MongoDB is required)*
 This repo is broken up into several branches. Each branch contains a set of lesson and builds upon the previous lesson.
 
 Throughout the workshop, you'll be working on the following lessons:
+
 1. [Lesson 1 - Fork & Clone Repo](https://github.com/mongodb-developer/social-app-demo/tree/1-lesson)
 2. [Lesson 2 - Create Cluster & Enable Data API](https://github.com/mongodb-developer/social-app-demo/tree/2-lesson)
 3. [Lesson 3 - Load Sample Data](https://github.com/mongodb-developer/social-app-demo/tree/3-lesson)
